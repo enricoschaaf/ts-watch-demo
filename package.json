@@ -1,0 +1,16 @@
+{
+  "name": "ts-watch-demo",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "ts-watch": "ts.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "esbuild": "^0.14.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  }
+}
